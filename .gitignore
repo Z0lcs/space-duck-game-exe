@@ -1,0 +1,52 @@
+OS / Editor temp files
+[Dd]esktop.ini
+[Tt]humbs.db
+[Tt]humbs.db:encryptable
+*.DS_Store
+
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+.idea/
+.DotSettings.user
+
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+MemoryCaptures/
+Assets/AssetStoreTools
+
+*.mdb
+.pdb
+
+Assets/AssetStoreTools
+
+addressables_content_state.bin
+
+.collab/
+
+.project
+/*.iml
+
+sysinfo.txt
+
+#If you generate builds inside Assets (not recommended)
+Assets/Build/
+If you use PlasticSCM
+.plastic/
+If you use JetBrains caches
+.cache/
+Assets/SimpleNaturePack/
